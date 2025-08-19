@@ -16,6 +16,11 @@ A web application built with **Django** that enables **signup and login function
 
 ---
 
+## Project Demo: Registration System  
+
+[Watch the video](https://drive.google.com/file/d/1jdIehD5gYWRdJjLzugWz3E0Dgt8D2T0F/view?usp=sharing)  
+
+
 ## 🚀 How to Run
 
 1. **Clone the repository**
